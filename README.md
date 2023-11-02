@@ -2,6 +2,9 @@
 
 Hello there! 👋 I'm Caden F, a passionate software developer with a focus on React and a flair for a variety of programming languages. This is where I showcase my projects, share my insights, and connect with fellow developers. Feel free to explore my repositories and get in touch if you have any questions or would like to collaborate on something cool.
 
+## Website
+[Cadenmf.com](https://cadenmf.com)
+
 ## About Me
 
 - 💼 Software Developer
