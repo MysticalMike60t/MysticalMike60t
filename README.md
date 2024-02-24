@@ -14,15 +14,15 @@ Hello there! 👋 I'm Caden F, a passionate software developer with a focus on R
 
 ## What You'll Find Here
 
-### React Projects
+## React Projects
 
 I have a deep love for React and enjoy building modern web applications with this fantastic JavaScript library. You'll find a variety of React-based projects in my repositories, from small components to full-fledged web applications.
 
-### Multilingual Coding
+## Multilingual Coding
 
 I don't limit myself to a single language; I enjoy exploring the world of programming through various languages. You'll see projects in different languages, whether it's Python, JavaScript, Ruby, or anything else that catches my interest.
 
-#### Tech Stack
+## Tech Stack
 
 ### Coding Languages:
    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
