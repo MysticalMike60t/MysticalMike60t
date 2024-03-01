@@ -12,8 +12,6 @@ Hello there! 👋 I'm Caden F, a passionate software developer with a focus on R
 - 🚀 React Lover
 - 💻 Multilingual Coder
 
-## What You'll Find Here
-
 ## React Projects
 
 I have a deep love for React and enjoy building modern web applications with this fantastic JavaScript library. You'll find a variety of React-based projects in my repositories, from small components to full-fledged web applications.
