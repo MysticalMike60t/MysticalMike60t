@@ -8,7 +8,8 @@
   <a href="mailto:cadenmfink@gmail.com"><img src="https://img.shields.io/badge/Email-cadenmfink@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 📊 My Stats
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MysticalMike60t&theme=ayu-mirage&hide_border=false" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalMike60t&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
