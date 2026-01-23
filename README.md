@@ -11,3 +11,6 @@
 <div align="center">
   <img src="https://github.com/MysticalMike60t/images/raw/main/lib/webp/emojis/BoyKisserRIdle.webp" />
 </div>
+
+> [!CAUTION]
+> User is a very silly goober
