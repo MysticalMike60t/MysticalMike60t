@@ -1,4 +1,7 @@
-<p align="center">I am going to update this soon...</p>
+<div align="center">
+  <img src="meow.png" />
+</div>
+
 <p align="center">
   <a href="https://cadenf.com/">
     cadenf.com 
@@ -8,10 +11,3 @@
      me@cadenf.com
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github.com/MysticalMike60t/images/raw/main/lib/webp/emojis/BoyKisserRIdle.webp" />
-</div>
-
-> [!CAUTION]
-> User is a very silly goober
